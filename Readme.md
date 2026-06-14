@@ -75,6 +75,6 @@ MIT
 
 ## Demo
 
-[![HydroTrack demo](./demo/thumbnail.png)]([./demo/demo.mp4](https://github.com/user-attachments/assets/1f4d4739-bc4c-4555-9533-5e2e32cf9af6))
+[![HydroTrack demo](./demo/thumbnail.png)](https://github.com/user-attachments/assets/1f4d4739-bc4c-4555-9533-5e2e32cf9af6)
 
 ▶️ *Tap to watch — logging, goal editing, persistence, and reminders in 60 seconds.*
