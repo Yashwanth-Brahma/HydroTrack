@@ -1,3 +1,5 @@
+
+
 # 🚰 HydroTrack
 
 A clean, offline-first water intake tracker built with React Native and Expo. Log your hydration with one tap, set a daily goal, and watch an animated progress ring fill as you go — all persisted locally on device.
@@ -73,6 +75,6 @@ MIT
 
 ## Demo
 
-[![HydroTrack demo](./demo/thumbnail.png)](./demo/demo.mp4)
+[![HydroTrack demo](./demo/thumbnail.png)]([./demo/demo.mp4](https://github.com/user-attachments/assets/1f4d4739-bc4c-4555-9533-5e2e32cf9af6))
 
 ▶️ *Tap to watch — logging, goal editing, persistence, and reminders in 60 seconds.*
