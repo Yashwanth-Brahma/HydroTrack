@@ -4,22 +4,33 @@
     "slug": "HydroTrack",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/hydroIcon1024.png",
+    "splash": {
+      "image": "./assets/splashScreen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#e3eefc"
+    },
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
-        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundColor": "#e3eefc",
+        "foregroundImage": "./assets/hydroIcon1024.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.brahmayash.HydroTrack"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b9597226-f92a-42c0-8378-3f8b4da01125"
+      }
     }
   }
 }

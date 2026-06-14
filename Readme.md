@@ -70,3 +70,9 @@ Scan the QR code with Expo Go (Android) or the Camera app (iOS), or press `i` / 
 ## License
 
 MIT
+
+## Demo
+
+[![HydroTrack demo](./demo/thumbnail.png)](./demo/demo.mp4)
+
+▶️ *Tap to watch — logging, goal editing, persistence, and reminders in 60 seconds.*
